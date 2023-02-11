@@ -1,5 +1,6 @@
 Assignment 2
 For this assignment, you will need to apply CSS to the provided HTML file to make it match the following description. Specific numbers and colors are up to you. You can also add classes and ids to the HTML file.
+```html
 •   The <body> should have no margin (it has some by default)
 •	The entire page should use a font other than the default.
 •	The <header> should have a background color and text color other than the default. The text should be larger than the default.
@@ -12,4 +13,4 @@ For this assignment, you will need to apply CSS to the provided HTML file to mak
 •	The main text of the article should wrap around the <img>.
 •	The second paragraph of the article should be noticeably different in some way.
 •	The <footer> should stretch across the full width of the page and have a background color. The elements on the footer should be spread apart from each other (left, middle, right).
-
+```
