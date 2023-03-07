@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    top: 0px;
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+form {
+    display: flex;
+    border: 3px solid green;
+    margin: 20px;
+    padding: 10px 25px 10px 25px;
+    flex-direction: column;
+    background-color: beige;
+}
+form input {
+    margin-bottom: 15px;
+}
+
+
+
+form input:focus {
+    background-color: teal;
+    color: white
+}
+
+button {
+    margin-left: 30px;
+}
+
+button:hover {
+    font-style: italic;
+}
